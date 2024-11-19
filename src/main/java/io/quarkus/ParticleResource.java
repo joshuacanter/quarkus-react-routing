@@ -8,7 +8,7 @@ import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 
 
-@Path("/api/particles")
+@Path("/particles")
 public class ParticleResource {
 
     @GET
